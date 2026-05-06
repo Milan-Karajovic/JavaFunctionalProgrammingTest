@@ -3,7 +3,7 @@ Java - Lambda expressions, Functional interfaces, Stream API
 
 
 01) Given a list of integers, separate odd and even numbers?
-[Solution 01](../src/main/java/rs/milan/karajovic/_01/Java8Code.java)
+[Solution 01](./src/main/java/rs/milan/karajovic/_01/Java8Code.java)
 
 02) How do you remove duplicate elements from a list using Java 8 streams?
 [Solution 02](../src/main/java/rs/milan/karajovic/_02/Java8Code.java)
