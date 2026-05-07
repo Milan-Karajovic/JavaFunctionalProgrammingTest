@@ -9,7 +9,7 @@ Java - Lambda expressions, Functional interfaces, Stream API
 [Solution 02](./src/main/java/rs/milan/karajovic/_02/Java8Code.java)
 
 03) How do you remove duplicate elements from a list using Java 8 streams?
-[Solution 03](./src/main/java/rs/milan/karajovic/_03/Java8Code.java)
+[Solution 03](./src/main/java/rs/milan/karajovic/_03_H/Java8Code.java)
 
 04) How do you find frequency of each element in an array or a list?
 [Solution 04](./src/main/java/rs/milan/karajovic/_04/Java8Code.java)
@@ -54,40 +54,40 @@ Java - Lambda expressions, Functional interfaces, Stream API
 [Solution 17](./src/main/java/rs/milan/karajovic/_17/Java8Code.java)
 
 18) Reverse each word of a string using Java 8 streams?
-[Solution 18](./src/main/java/rs/milan/karajovic/_18/Java8Code.java)
+[Solution 18](./src/main/java/rs/milan/karajovic/_18_H/Java8Code.java)
 
 19) How do you find sum of first 10 natural numbers?
 [Solution 19](./src/main/java/rs/milan/karajovic/_19/Java8Code.java)
 
 20) Reverse an integer array
-[Solution 20](./src/main/java/rs/milan/karajovic/_20/Java8Code.java)
+[Solution 20](./src/main/java/rs/milan/karajovic/_20_H/Java8Code.java)
 
 21) Print first 10 even numbers
 [Solution 21](./src/main/java/rs/milan/karajovic/_21/Java8Code.java)
 
 22) How do you find the most repeated element in an array?
-[Solution 22](./src/main/java/rs/milan/karajovic/_22/Java8Code.java)
+[Solution 22](./src/main/java/rs/milan/karajovic/_22_H/Java8Code.java)
 
 23) Palindrome program using Java 8 streams
-[Solution 23](./src/main/java/rs/milan/karajovic/_23/Java8Code.java)
+[Solution 23](./src/main/java/rs/milan/karajovic/_23_H/Java8Code.java)
 
 24) Given a list of strings, find out those strings which start with a number?
 [Solution 24](./src/main/java/rs/milan/karajovic/_24/Java8Code.java)
 
 25) How do you extract duplicate elements from an array?
-[Solution 25](./src/main/java/rs/milan/karajovic/_25/Java8Code.java)
+[Solution 25](./src/main/java/rs/milan/karajovic/_25_H/Java8Code.java)
 
 26) Print duplicate characters in a string?
-[Solution 26](./src/main/java/rs/milan/karajovic/_26/Java8Code.java)
+[Solution 26](./src/main/java/rs/milan/karajovic/_26_H/Java8Code.java)
 
 27) Find first repeated character in a string?
-[Solution 27](./src/main/java/rs/milan/karajovic/_27/Java8Code.java)
+[Solution 27](./src/main/java/rs/milan/karajovic/_27_H/Java8Code.java)
 
 28) Find first non-repeated character in a string?
 [Solution 28](./src/main/java/rs/milan/karajovic/_28/Java8Code.java)
 
 29) Fibonacci series
-[Solution 29](./src/main/java/rs/milan/karajovic/_29/Java8Code.java)
+[Solution 29](./src/main/java/rs/milan/karajovic/_29_H/Java8Code.java)
 
 30) First 10 odd numbers
 [Solution 30](./src/main/java/rs/milan/karajovic/_30/Java8Code.java)
