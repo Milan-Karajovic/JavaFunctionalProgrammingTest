@@ -1,4 +1,4 @@
-# JavaFunctionalProgrammingTest
+# JavaFunctionalProgrammingInterviewTest
 Java - Lambda expressions, Functional interfaces, Stream API
 
 
