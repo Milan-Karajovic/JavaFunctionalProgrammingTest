@@ -8,7 +8,7 @@ Java - Lambda expressions, Functional interfaces, Stream API
 02) How do you remove duplicate elements from a list using Java 8 streams?
 [Solution 02](./src/main/java/rs/milan/karajovic/_02/Java8Code.java)
 
-03) How do you remove duplicate elements from a list using Java 8 streams?
+03) How do you find frequency of each character in a string using Java 8 streams?
 [Solution 03](./src/main/java/rs/milan/karajovic/_03_H/Java8Code.java)
 
 04) How do you find frequency of each element in an array or a list?
